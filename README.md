@@ -181,5 +181,4 @@ first, some require a specific license.]`
 
 ## Contact
 
-`[Author name(s), affiliation, and email — withheld here as placeholder;
-fill in before making the repository public if not already public.]`
+`[Naufal Sebastian A, Lvmnd Labworks, naufalsebastian@gmail.com]`
