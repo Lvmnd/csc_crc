@@ -1,4 +1,4 @@
-# A Pre-Specified Cancer Stem Cell Gene Panel Shows No Independent Prognostic Value in Colorectal Cancer After Stage Adjustment: An Asian Populations Multi-Cohort Validation Analysis 
+# A Pre-Specified Cancer Stem Cell Gene Panel in Colorectal Cancer: An Asian Populations Multi-Cohort Validation Analysis 
 
 This repository contains the full analysis pipeline, scripts, and supplementary
 materials for a study testing whether a pre-specified cancer stem cell (CSC)
