@@ -1,10 +1,5 @@
 # A Pre-Specified Cancer Stem Cell Gene Panel Shows No Independent Prognostic Value in Colorectal Cancer After Stage Adjustment: An Asian Populations Multi-Cohort Validation Analysis 
 
-> ⚠️ **PLACEHOLDER NOTICE:** Sections marked `[CONFIRM BEFORE PUBLISHING]` contain
-> values that are not yet locked/reconciled as of the last analysis run. Do not
-> commit this README with those placeholders filled from memory — pull them
-> directly from `results/tables/numbers_ledger.csv` only once finalized.
-
 This repository contains the full analysis pipeline, scripts, and supplementary
 materials for a study testing whether a pre-specified cancer stem cell (CSC)
 gene panel independently predicts colorectal cancer (CRC) prognosis, using
